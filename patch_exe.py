@@ -17,7 +17,7 @@ The patcher will:
   3. Apply all 17 NOP patches
   4. Verify the patched exe
 
-Author: William
+Author: Phil
 """
 
 import hashlib
