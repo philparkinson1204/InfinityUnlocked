@@ -1,6 +1,6 @@
 # Disney Infinity 1.0 — Character Freedom Mod
 
-**Play any character in any playset.** Sorcerer Mickey in Incredibles, Jack Sparrow in Monsters University, Elsa in Pirates — all 40 characters work everywhere with full 3D models, animations, abilities, and tools.
+**Play any character in any playset.** Sorcerer Mickey in Incredibles, Jack Sparrow in Monsters University, Elsa in Pirates — endless possibility.
 
 This has never been achieved in the game's 13-year history.
 
