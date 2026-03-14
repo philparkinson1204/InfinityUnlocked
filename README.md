@@ -3,6 +3,7 @@
 **Play any character in any playset.** Sorcerer Mickey in Incredibles, Jack Sparrow in Monsters University, Elsa in Pirates — endless possibility.
 
 This has never been achieved in the game's 13-year history. 
+
 A historic feat achieved with Anthropic's Claude Code (Opus 4.6 - high thinking).
 
 ## What It Does
