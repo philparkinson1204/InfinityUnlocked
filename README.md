@@ -74,51 +74,6 @@ Copy the three modified zip files into your game directory, replacing the origin
   ```
 - The mod unlocks all 96 customization items (IGP entries set from LOCKED to AVAILABLE), so everything should be accessible immediately.
 
-## All 40 Playable Characters
-
-| # | Character ID | Character |
-|---|---|---|
-| 1 | AV_MrIncredible | Mr. Incredible |
-| 2 | AV_ElastiGirl | Elastigirl |
-| 3 | AV_Dash | Dash |
-| 4 | AV_Violet | Violet |
-| 5 | AV_Syndrome | Syndrome |
-| 6 | AV_Frozone | Frozone |
-| 7 | PIR_JackSparrow | Captain Jack Sparrow |
-| 8 | PIR_Barbossa | Barbossa |
-| 9 | PIR_DavyJones | Davy Jones |
-| 10 | MU_Sully | Sulley |
-| 11 | MU_Mike | Mike Wazowski |
-| 12 | MU_Randall | Randall |
-| 13 | LR_LoneRanger | The Lone Ranger |
-| 14 | LR_Tonto | Tonto |
-| 15 | AV_Buzz | Buzz Lightyear |
-| 16 | AV_Jessie | Jessie |
-| 17 | AV_Woody | Woody |
-| 18 | AV_Zurg | Zurg |
-| 19 | AV_McQueen | Lightning McQueen |
-| 20 | AV_Holly | Holley Shiftwell |
-| 21 | AV_Mater | Mater |
-| 22 | AV_Francesco | Francesco Bernoulli |
-| 23 | AV_Cars_Finn | Finn McMissile |
-| 24 | AV_Cars_Luigi | Luigi |
-| 25 | AV_Cars_Ramone | Ramone |
-| 26 | AV_Cars_Flo | Flo |
-| 27 | AV_Cars_ChickHicks | Chick Hicks |
-| 28 | AV_Cars_King | The King |
-| 29 | AV_Cars_Carla | Carla Veloso |
-| 30 | AV_Cars_Shu | Shu Todoroki |
-| 31 | AV_Fillmore | Fillmore |
-| 32 | FRO_Anna | Anna |
-| 33 | FRO_Elsa | Elsa |
-| 34 | NBC_JackSkellington | Jack Skellington |
-| 35 | TB_MickeyMouse | Sorcerer Mickey |
-| 36 | PNF_Phineas | Phineas |
-| 37 | PNF_Perry | Perry the Platypus |
-| 38 | WR_Ralph | Wreck-It Ralph |
-| 39 | WR_Vanellope | Vanellope |
-| 40 | TAN_Rapunzel | Rapunzel |
-
 ## What's Modified (Technical Detail)
 
 ### EXE: 17 Binary Patches
